@@ -4,16 +4,16 @@ A data Cleaning and analysis project which I had to join different dataset into 
 
 
 PROJECT OBJECTIVES : 
-Finding the Total revenue/Sales of the Pizza place
-Finding the Total quantity of Pizza sold at the pizza place
-Finding the Total order of Pizza placed by customers
-Getting how many pizza types is sold by the pizza place
-Finding the average price of pizzas sold
-Getting the peak hours of ssles of the pizza place and also backed up with a visual representation 
-Finding the Total sales made on each day of the week, and which day of the week is sales made the most at the pizza place also backed up with a visual representation 
-Getting the Top 5 best selling pizzas from the pizza place
-Analyzing the sales made in each month with a noticeable trend of seasonal spikes at the pizza place also gave a visual representation 
-finally listed pizza types that are not doing well enough from the pizza place menu.
+a)Finding the Total revenue/Sales of the Pizza place
+b)Finding the Total quantity of Pizza sold at the pizza place
+c)Finding the Total order of Pizza placed by customers
+d)Getting how many pizza types is sold by the pizza place
+e)Finding the average price of pizzas sold
+f)Getting the peak hours of ssles of the pizza place and also backed up with a visual representation 
+g)Finding the Total sales made on each day of the week, and which day of the week is sales made the most at the pizza place also backed up with a visual representation 
+h)Getting the Top 5 best selling pizzas from the pizza place
+i)Analyzing the sales made in each month with a noticeable trend of seasonal spikes at the pizza place also gave a visual representation 
+j)finally listed pizza types that are not doing well enough from the pizza place menu.
 
 KEY INSIGHT: 
 A) Total Revenue = np.float64(817937.7961435624)
